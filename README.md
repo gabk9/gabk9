@@ -1,6 +1,9 @@
-<p align="center">
-  <img src="https://github.com/gabk9/github-contribution-grid-snake.svg/raw/main/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+<div align="center" style="border: 2px solid #4CAF50; background-color: #e6ffe6; padding: 15px; border-radius: 10px; margin-bottom: 20px;">
+  <h3>🐍 Jogo da Cobrinha (Snake Game)</h3>
+  <a href="https://github.com/gabk9/snake-game" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Jogar%20Snake-Play-green?style=for-the-badge&logo=gamepad" alt="Jogar Snake" />
+  </a>
+</div>
 
 <h1 align="center">Gabriel Oliveira</h1>
 
