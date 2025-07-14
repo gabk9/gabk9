@@ -26,7 +26,6 @@ Atualmente aprofundar/aprender em outras linguagens como:
 - **JavaScript**
 - **Java**
 - **PHP**
-- **Kotlin**
 - **Golang**
 
 E no futuro, quem sabe até **Assembly** ou **COBOL**!
