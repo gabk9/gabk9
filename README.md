@@ -1,5 +1,5 @@
 <p align="center">
-  ![Snake animation](https://github.com/gabk9/github-contribution-grid-snake.svg/raw/main/github-contribution-grid-snake.svg)
+  <img src="https://github.com/gabk9/github-contribution-grid-snake.svg/raw/main/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 <h1 align="center">Gabriel Oliveira</h1>
