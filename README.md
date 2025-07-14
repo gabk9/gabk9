@@ -1,3 +1,6 @@
+
+![Snake animation](https://github.com/gabk9/github-contribution-grid-snake.svg/raw/main/github-contribution-grid-snake.svg)
+
 <h1 align="center">Gabriel Oliveira</h1>
 
 <p align="center">
@@ -88,7 +91,6 @@ E no futuro, quem sabe até **Assembly** ou **COBOL**!
 
 ---
 
-![Snake animation](https://github.com/gabk9/github-contribution-grid-snake.svg/raw/main/github-contribution-grid-snake.svg)
 
 
 ⭐ Obrigado por visitar meu perfil!
