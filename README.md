@@ -1,8 +1,7 @@
-<div align="center" style="border: 2px solid #4CAF50; background-color: #e6ffe6; padding: 15px; border-radius: 10px; margin-bottom: 20px;">
-  <div style="transform: scale(3); transform-origin: center;">
-    <img src="https://github.com/gabk9/github-contribution-grid-snake.svg/raw/main/github-contribution-grid-snake.svg" alt="Gameplay Snake" />
-  </div>
+<div align="center" style="width: 420px; height: 420px; border: 5px solid #FF4500; background-color: #FFF0F0; padding: 20px; border-radius: 20px; display: inline-block;">
+  <img src="https://github.com/gabk9/github-contribution-grid-snake.svg/raw/main/github-contribution-grid-snake.svg" alt="Gameplay Snake" style="width: 380px; height: 380px;" />
 </div>
+
 
 <h1 align="center">Gabriel Oliveira</h1>
 
