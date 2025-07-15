@@ -78,6 +78,7 @@ E no futuro, quem sabe até **Assembly** ou **COBOL**!
 - 🗂️ [Sistema de Cadastro de Alunos (C)](https://github.com/gabk9/Meus-projetos-C/blob/main/CadastrarAlunos.c)
 - 🌐 [Site Interativo: Tipos de Variáveis (HTML, CSS, JS)](https://github.com/gabk9/Meus-projetos-Web/tree/main/Tipos%20de%20variáveis)
 - 🧠 [Quiz sobre Declaração de Variáveis (C)](https://github.com/gabk9/Meus-projetos-C/blob/main/Variaveis.c)
+- 🔢 [Uma calculadora reduzida à algumas linhasde codigo (Python)](https://github.com/gabk9/Meus-projetos-Python/blob/main/Testes/Calculadora.py)
 
 ---
 
