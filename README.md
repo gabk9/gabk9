@@ -62,12 +62,11 @@ E no futuro, quem sabe até **Assembly** ou **COBOL**!
 
 ### 📈 Estatísticas GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabk9&show_icons=true&theme=tokyonight" alt="Estatísticas GitHub" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabk9&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
-</p>
+- 📧 Gmail: giane.ga2010@gmail.com
+- 💬 Discord: **gabirel69_**
+- 📸 Instagram: [gabriel.o.miranda](https://www.instagram.com/gabriel.o.miranda)
+- 💼 LinkedIn: *Ainda não possuo*
+- 🌐 Site pessoal: *em breve!*
 
 ---
 
