@@ -84,12 +84,13 @@ E no futuro, quem sabe até **Assembly** ou **COBOL**!
 
 ### 📫 Contato
 
-- 📧 Gmail: giane.ga2010@gmail.com
-- 💬 Discord: **gabirel69_**
-- 📸 Instagram: [gabriel.o.miranda](https://www.instagram.com/gabriel.o.miranda)
-- 💼 LinkedIn: *Ainda não possuo*
-- 🌐 Site pessoal: *em breve!*
-
+<ul>
+  <li>📧 Gmail: <a href="mailto:giane.ga2010@gmail.com" target="_blank">giane.ga2010@gmail.com</a></li>
+  <li>💬 Discord: <strong>gabirel69_</strong></li>
+  <li>📸 Instagram: <a href="https://www.instagram.com/gabriel.o.miranda" target="_blank">gabriel.o.miranda</a></li>
+  <li>💼 LinkedIn: <em>Ainda não possuo</em></li>
+  <li>🌐 Site pessoal: <em>em breve!</em></li>
+</ul>
 ---
 
 
