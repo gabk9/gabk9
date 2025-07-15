@@ -85,7 +85,7 @@ E no futuro, quem sabe até **Assembly** ou **COBOL**!
 
 - 📧 Gmail: giane.ga2010@gmail.com
 - 💬 Discord: **gabirel69_**
-- 📸 Instagram: [gabriel.o.miranda](https://www.instagram.com/gabriel.o.miranda) *(abrirá em nova aba)*
+- 📸 Instagram: [gabriel.o.miranda](https://www.instagram.com/gabriel.o.miranda)
 - 💼 LinkedIn: *Ainda não possuo*
 - 🌐 Site pessoal: *em breve!*
 ---
