@@ -63,8 +63,10 @@ E no futuro, quem sabe até **Assembly** ou **COBOL**!
 ### 📈 Estatísticas GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabk9&show_icons=true&theme=github_dark&hide_border=true" alt="Estatísticas do GitHub" /> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabk9&layout=compact&theme=github_dark&hide_border=true" alt="Linguagens mais usadas" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabk9&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabk9&layout=compact&theme=github_dark&hide_border=true" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabk9&theme=github-dark&hide_border=true" />
 </p>
 
 ---
