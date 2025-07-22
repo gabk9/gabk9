@@ -86,9 +86,10 @@ E no futuro, quem sabe até **Assembly** ou **COBOL**!
 - 📊 [Calculadora de IMC Multilíngue (C)](https://github.com/gabk9/Meus-projetos-C/blob/main/IMC.c)
 - 🔐 [Cifra de César no Terminal (C)](https://github.com/gabk9/Meus-projetos-C/blob/main/CifraCesar.c)
 - 🗂️ [Sistema de Cadastro de Alunos (C)](https://github.com/gabk9/Meus-projetos-C/blob/main/CadastrarAlunos.c)
-- 🌐 [Site Interativo: Tipos de Variáveis (HTML, CSS, JS)](https://github.com/gabk9/Meus-projetos-Web/tree/main/Tipos%20de%20variáveis)
+- 🌐 [Site Interativo: Tipos de Variáveis (HTML, CSS, JS)](https://github.com/gabk9/Meus-projetos-Web/tree/master/Tipos-de-variaveis)
 - 🧠 [Quiz sobre Declaração de Variáveis (C)](https://github.com/gabk9/Meus-projetos-C/blob/main/Variaveis.c)
 - 🔢 [Uma calculadora completa reduzida à algumas linhas de codigo (Python)](https://github.com/gabk9/Meus-projetos-Python/blob/main/Testes/Calculadora.py)
+- 💼 [Meu portfolio (HTML, CSS, JS)](https://github.com/gabk9/Meus-projetos-Web/tree/master/Portfolio)
 
 ---
 
