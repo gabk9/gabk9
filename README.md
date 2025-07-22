@@ -3,7 +3,7 @@
     <img src="https://github.com/gabk9/github-contribution-grid-snake.svg/raw/main/github-contribution-grid-snake.svg" alt="Gameplay Snake" />
   </div>
 </div>
-
+ 
 <h1 align="center">Gabriel Oliveira</h1>
 
 <p align="center">
