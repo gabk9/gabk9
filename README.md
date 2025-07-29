@@ -66,7 +66,7 @@ E no futuro, quem sabe até **Assembly** ou **COBOL**!
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabk9&show_icons=true&theme=github_dark&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabk9&layout=compact&theme=github_dark&hide_border=true" />
   <br><br>
-  <img src="https://streak-stats.demolab.com?user=&theme=shadow-red" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=gabk9&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 
 ---
