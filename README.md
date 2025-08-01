@@ -88,7 +88,7 @@ E no futuro, quem sabe até **Assembly** ou **COBOL**!
 - 🗂️ [Sistema de Cadastro de Alunos (C)](https://github.com/gabk9/Meus-projetos-C/blob/main/CadastrarAlunos.c)
 - 🌐 [Site Interativo: Tipos de Variáveis (HTML, CSS, JS)](https://github.com/gabk9/Meus-projetos-Web/tree/master/Tipos-de-variaveis)
 - 🧠 [Quiz sobre Declaração de Variáveis (C)](https://github.com/gabk9/Meus-projetos-C/blob/main/Variaveis.c)
-- 🔐 [Uma pagina para login e cadastro (HTML, CSS, JS](https://github.com/gabk9/Meus-projetos-Web/tree/master/login) 
+- 🔐 [Uma pagina para login e cadastro (HTML, CSS, JS)](https://github.com/gabk9/Meus-projetos-Web/tree/master/login) 
 - 💼 [Meu portfolio (HTML, CSS, JS)](https://github.com/gabk9/Meus-projetos-Web/tree/master/Portfolio)
 
 ---
