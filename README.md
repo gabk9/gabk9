@@ -1,6 +1,6 @@
 <div align="center" style="border: 2px solid #4CAF50; background-color: #e6ffe6; padding: 15px; border-radius: 10px; margin-bottom: 20px;">
   <div style="transform: scale(3); transform-origin: center;">
-    <img src="https://github.com/gabk9/github-contribution-grid-snake.svg/raw/main/github-contribution-grid-snake.svg" alt="Gameplay Snake" />
+    <img src="https://raw.githubusercontent.com/gabk9/gabk9/output/snake.svg" alt="Snake animation" />
   </div>   
 </div>
  
