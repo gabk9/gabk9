@@ -18,7 +18,8 @@ Olá! Meu nome é Gabriel, tenho 15 anos e sou apaixonado por tecnologia e progr
 Atualmente desenvolvo principalmente em:
 
 - **C**
-- **HTML & CSS**
+- **HTML**
+- **CSS**
 - **Python**
 
 Atualmente aprofundar/aprender em outras linguagens como:
