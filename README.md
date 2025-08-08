@@ -21,10 +21,10 @@ Atualmente desenvolvo principalmente em:
 - **HTML**
 - **CSS**
 - **Python**
+- **JavaScript**
 
 Atualmente aprofundar/aprender em outras linguagens como:
 
-- **JavaScript**
 - **Java**
 - **PHP**
 - **Golang**
