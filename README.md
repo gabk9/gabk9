@@ -7,7 +7,7 @@
 <h1 align="center">Gabriel Oliveira</h1>
 
 <p align="center">
-  👨‍💻 Programador em formação | 🎓 15 anos | 🇧🇷 Brasil
+  👨‍💻 Programador em formação | 🎓 15 anos | 🇧🇷 Brasil        
 </p>
 
 ---
