@@ -89,7 +89,6 @@ E no futuro, quem sabe até **Assembly** ou **COBOL**!
 - 🧠 [Quiz sobre Declaração de Variáveis (C)](https://github.com/gabk9/Meus-projetos-C/blob/main/testes/Variaveis.c)
 - 🛒 [Sistema de Cálculo de Preço por Quantidade (C)](https://github.com/gabk9/Meus-projetos-C/blob/main/testes/buysmart.c)
 - 🌐 [Site Interativo: Tipos de Variáveis (HTML, CSS, JS)](https://github.com/gabk9/Meus-projetos-Web/tree/master/Tipos-de-variaveis)
-- 🔐 [Uma pagina para login e cadastro (HTML, CSS, JS)](https://github.com/gabk9/Meus-projetos-Web/tree/master/login) 
 - 💼 [Meu portfolio (HTML, CSS, JS)](https://github.com/gabk9/Meus-projetos-Web/tree/master/Portfolio)
 - 🔢 [Uma calculadora Web (HTML, CSS, JS)](https://github.com/gabk9/Meus-projetos-Web/tree/master/calculadora)
 
