@@ -25,6 +25,7 @@ Atualmente desenvolvo principalmente em:
 
 Atualmente aprofundar/aprender em outras linguagens como:
 
+- **C++**
 - **Java**
 - **PHP**
 - **Golang**
@@ -46,6 +47,7 @@ E no futuro, quem sabe até **Assembly** ou **COBOL**!
 ### 🛠️ Tecnologias e Ferramentas
 
 ![C](https://img.shields.io/badge/C-blue?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-yellow?style=flat-square&logo=python)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
