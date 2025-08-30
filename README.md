@@ -25,12 +25,13 @@ Atualmente desenvolvo principalmente em:
 
 Atualmente aprofundar/aprender em outras linguagens como:
 
+- **Assembly**
 - **C++**
 - **Java**
 - **PHP**
 - **Golang**
 
-E no futuro, quem sabe até **Assembly** ou **COBOL**!
+E no futuro, quem sabe até **Fortran** ou **COBOL**!
 
 ---
 
@@ -56,6 +57,7 @@ E no futuro, quem sabe até **Assembly** ou **COBOL**!
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat-square)
 ![COBOL](https://img.shields.io/badge/COBOL-002D72?style=flat-square)
+![Fortran](https://img.shields.io/badge/Fortran-734F96?style=flat-square&logo=fortran&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
