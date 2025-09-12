@@ -1,20 +1,20 @@
 <div align="center" style="border: 2px solid #4CAF50; background-color: #e6ffe6; padding: 15px; border-radius: 10px; margin-bottom: 20px;">
   <div style="transform: scale(3); transform-origin: center;">
     <img src="https://raw.githubusercontent.com/gabk9/gabk9/output/snake.svg" alt="Snake animation" />
-  </div>      
-</div>        
+  </div>
+</div>
 
 <h1 align="center">Gabriel Oliveira</h1>
 
 <p align="center">
-  👨‍💻 Programador em formação | 🎓 15 anos | 🇧🇷 Brasil        
+  👨‍💻 Programador em formação | 🎓 15 anos | 🇧🇷 Brasil
 </p>
 
 ---
 
 ### 👋 Sobre mim
 
-Olá! Meu nome é Gabriel, tenho 15 anos e sou apaixonado por tecnologia e programação.  
+Olá! Meu nome é Gabriel, tenho 15 anos e sou apaixonado por tecnologia e programação.
 Atualmente desenvolvo principalmente em:
 
 - **C**
