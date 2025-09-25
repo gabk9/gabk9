@@ -26,9 +26,9 @@ Atualmente desenvolvo principalmente em:
 Atualmente aprofundar/aprender em outras linguagens como:
 
 - **Assembly**
+- **PHP**
 - **C++**
 - **Java**
-- **PHP**
 - **Golang**
 
 E no futuro, quem sabe até **Fortran** ou **COBOL**!
