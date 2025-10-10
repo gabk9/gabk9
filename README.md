@@ -17,16 +17,16 @@
 Olá! Meu nome é Gabriel, tenho 15 anos e sou apaixonado por tecnologia e programação.
 Atualmente desenvolvo principalmente em:
 
+- **Assembly**
 - **C**
-- **HTML**
 - **CSS**
-- **Python**
+- **HTML**
 - **JavaScript**
+- **PHP**
+- **Python**
 
 Atualmente aprofundar/aprender em outras linguagens como:
 
-- **Assembly**
-- **PHP**
 - **C++**
 - **Java**
 - **Golang**
