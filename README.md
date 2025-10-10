@@ -30,6 +30,7 @@ Atualmente aprofundar/aprender em outras linguagens como:
 - **C++**
 - **Java**
 - **Golang**
+- **Kotlin**
 
 E no futuro, quem sabe até **Fortran** ou **COBOL**!
 
