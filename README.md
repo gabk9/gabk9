@@ -94,7 +94,7 @@ E no futuro, quem sabe até **Fortran** ou **COBOL**!
 - 🚗 [Um CRUD para uma concessionaria completo (Python)](https://github.com/gabk9/Meus-projetos-Python/blob/main/Testes/concessionaria.py#L210)
 - 🧠 [Quiz sobre Declaração de Variáveis (C)](https://github.com/gabk9/Meus-projetos-C/tree/pc-linux/testes/Variaveis.c)
 - 🛒 [Um CRUD para um consumidor completo (C)](https://github.com/gabk9/Meus-projetos-C/tree/pc-linux/testes/buysmart.c)
-- 🖥️ [Um mini terminal, versão beta (C)](https://github.com/gabk9/Meus-projetos-C/blob/pc-linux/compartilhado/terminal.c)
+- 🖥️ [Um mini terminal, versão beta (C)](https://github.com/gabk9/Meus-projetos-C/blob/pc-linux/compartilhado/terminal/)
 - 🌐 [Site Interativo: Tipos de Variáveis (HTML, CSS, JS)](https://github.com/gabk9/Meus-projetos-Web/tree/master/Tipos-de-variaveis)
 - 💼 [Meu portfolio (HTML, CSS, JS)](https://github.com/gabk9/Meus-projetos-Web/tree/master/Portfolio)
 - 🔢 [Uma calculadora Web (HTML, CSS, JS)](https://github.com/gabk9/Meus-projetos-Web/tree/master/calculadora)
