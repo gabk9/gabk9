@@ -28,9 +28,10 @@ Atualmente desenvolvo principalmente em:
 Atualmente aprofundar/aprender em outras linguagens como:
 
 - **C++**
-- **Java**
 - **Golang**
+- **Java**
 - **Kotlin**
+- **Rust**
 
 E no futuro, quem sabe até **Fortran** ou **COBOL**!
 
