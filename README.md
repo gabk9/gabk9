@@ -2,7 +2,7 @@
   <div style="transform: scale(3); transform-origin: center;">
     <img src="https://raw.githubusercontent.com/gabk9/gabk9/output/snake.svg" alt="Snake animation" />
   </div>
-</div>
+</div>  
 
 <h1 align="center">Gabriel Oliveira</h1>
 
