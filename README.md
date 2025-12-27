@@ -42,7 +42,7 @@ And in the future, who knows, maybe even **Fortran** or **COBOL**!
 
 - Terminal systems
 - Low-level programming
-- Kernel and operating systems
+- Kernel and operational systems
 - Continuous learning 🚀
 
 ---
@@ -82,12 +82,12 @@ And in the future, who knows, maybe even **Fortran** or **COBOL**!
 
 ### 📌 My personal best projects
 
-- 🖥️ [Um terminal, versão beta (C)](https://github.com/gabk9/Meus-projetos-C/blob/pc-linux/compartilhado/terminal)
-- 🔐 [Cifra de César no Terminal (C)](https://github.com/gabk9/Meus-projetos-C/tree/pc-linux/testes/CifraCesar.c)
-- 🧠 [Quiz sobre Declaração de Variáveis (C)](https://github.com/gabk9/Meus-projetos-C/tree/pc-linux/testes/Variaveis.c)
-- 🛒 [Um CRUD para um consumidor completo (C)](https://github.com/gabk9/Meus-projetos-C/tree/pc-linux/testes/buysmart.c)
-- 💼 [Meu portfolio (HTML, CSS, JS)](https://github.com/gabk9/Meus-projetos-Web/tree/master/Portfolio)
-- 🔢 [Uma calculadora Web (HTML, CSS, JS)](https://github.com/gabk9/Meus-projetos-Web/tree/master/calculadora)
+- 🖥️ [A simple bash, my biggest project so far (C)](https://github.com/gabk9/Meus-projetos-C/blob/pc-linux/compartilhado/terminal)
+- 🔐 [Caesar cipher on the terminal (C)](https://github.com/gabk9/Meus-projetos-C/tree/pc-linux/testes/CifraCesar.c)
+- 🧠 [Quiz about variable declaration (C)](https://github.com/gabk9/Meus-projetos-C/tree/pc-linux/testes/Variaveis.c)
+- 🛒 [A CRUD for the costumer (C)](https://github.com/gabk9/Meus-projetos-C/tree/pc-linux/testes/buysmart.c)
+- 💼 [My portfolio (HTML, CSS, JS)](https://github.com/gabk9/Meus-projetos-Web/tree/master/Portfolio)
+- 🔢 [A web calculator (HTML, CSS, JS)](https://github.com/gabk9/Meus-projetos-Web/tree/master/calculadora)
 
 ---
 
