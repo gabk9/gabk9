@@ -18,8 +18,8 @@
 Hi! My name is Gabriel, I'm 15 years old and I'm passionate about tech and coding.
 Currently I mainly code in:
 
-- **Assembly** *(Proficient)*
-- **C** *(Proficient)*
+- **Assembly**   *(Proficient)*
+- **C**   *(Proficient)*
 - **CSS**
 - **HTML**
 - **JavaScript**
