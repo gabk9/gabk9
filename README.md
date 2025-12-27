@@ -7,15 +7,16 @@
 <h1 align="center">Gabriel Oliveira</h1>
 
 <p align="center">
-  👨‍💻 Programador em formação | 🎓 15 anos | 🇧🇷 Brasil
+  👨‍💻 Programmer in training | 🎓 15 y.o | 🇧🇷 Brazil
 </p>
 
 ---
 
-### 👋 Sobre mim
+### 👋 About Me
 
-Olá! Meu nome é Gabriel, tenho 15 anos e sou apaixonado por tecnologia e programação.
-Atualmente desenvolvo principalmente em:
+
+Hi! My name is Gabriel, I'm 15 years old and I'm passionate about tech and coding.
+Currently I mainly code in:
 
 - **Assembly**
 - **C**
@@ -25,7 +26,7 @@ Atualmente desenvolvo principalmente em:
 - **PHP**
 - **Python**
 
-Atualmente aprofundar/aprender em outras linguagens como:
+Currently deepening/learning in other languages ​​such as:
 
 - **C++**
 - **Golang**
@@ -33,21 +34,20 @@ Atualmente aprofundar/aprender em outras linguagens como:
 - **Kotlin**
 - **Rust**
 
-E no futuro, quem sabe até **Fortran** ou **COBOL**!
+And in the future, who knows, maybe even **Fortran** or **COBOL**!
 
 ---
 
-### 🧠 Interesses
+### 🧠 Interests
 
-- Desenvolvimento de jogos (C, SDL2, Python)
-- Sistemas de terminal
-- Programação de baixo nível
-- Criação de interfaces com HTML/CSS
-- Aprendizado contínuo 🚀
+- Terminal systems
+- Low-level programming
+- Kernel and operating systems
+- Continuous learning 🚀
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Technologies and Tools
 
 ![C](https://img.shields.io/badge/C-blue?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -70,8 +70,7 @@ E no futuro, quem sabe até **Fortran** ou **COBOL**!
 
 ---
 
-### 📈 Estatísticas GitHub
-
+### 📈 GitHub stats
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabk9&show_icons=true&theme=github_dark&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabk9&layout=compact&theme=github_dark&hide_border=true" />
@@ -81,17 +80,7 @@ E no futuro, quem sabe até **Fortran** ou **COBOL**!
 
 ---
 
-### 📫 Informações de Contato
-
-- 📧 Gmail: giane.ga2010@gmail.com
-- 💬 Discord: **gabirel69_**
-- 📸 Instagram: [gabriel.o.miranda](https://www.instagram.com/gabriel.o.miranda)
-- 💼 LinkedIn: [Gabriel oliveira](https://www.linkedin.com/in/gabriel-oliveira-3b5076372)
-- 🌐 Site pessoal: *Ainda não possuo*
-
----
-
-### 📌 Projetos em destaque
+### 📌 My personal best projects
 
 - 🖥️ [Um terminal, versão beta (C)](https://github.com/gabk9/Meus-projetos-C/blob/pc-linux/compartilhado/terminal)
 - 🔐 [Cifra de César no Terminal (C)](https://github.com/gabk9/Meus-projetos-C/tree/pc-linux/testes/CifraCesar.c)
@@ -102,15 +91,15 @@ E no futuro, quem sabe até **Fortran** ou **COBOL**!
 
 ---
 
-### 📫 Contato
+### 📫 Contact
 
 - 📧 Gmail: giane.ga2010@gmail.com
 - 💬 Discord: **gabirel69_**
 - 📸 Instagram: [gabriel.o.miranda](https://www.instagram.com/gabriel.o.miranda)
 - 💼 LinkedIn: [Gabriel oliveira](https://www.linkedin.com/in/gabriel-oliveira-3b5076372)
-- 🌐 Site pessoal: *em breve!*
+- 🌐 Personal website: *I don't have it yet.*
 ---
 
 
 
-⭐ Obrigado por visitar meu perfil!
+⭐ Thank you for visiting my profile!
