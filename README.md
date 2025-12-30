@@ -85,7 +85,7 @@ And in the future, who knows, maybe even **Fortran** or **COBOL**!
 
 ### 📌 My personal best projects
 
-- 🖥️ [A simple bash, my biggest project so far (C)](https://github.com/gabk9/lsw-Gab-OS/blob/pc-linux)
+- 🖥️ [A linux like shell (C)](https://github.com/gabk9/lsw-Gab-OS/blob/pc-linux)
 - 🔐 [Caesar cipher on the terminal (C)](https://github.com/gabk9/Meus-projetos-C/tree/pc-linux/testes/CifraCesar.c)
 - 🧠 [Quiz about variable declaration (C)](https://github.com/gabk9/Meus-projetos-C/tree/pc-linux/testes/Variaveis.c)
 - 🛒 [A CRUD for the costumer (C)](https://github.com/gabk9/Meus-projetos-C/tree/pc-linux/testes/buysmart.c)
