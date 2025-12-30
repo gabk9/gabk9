@@ -18,7 +18,7 @@
 Hi! My name is Gabriel, I'm 15 years old and I'm passionate about tech and coding.
 Currently I mainly code in:
 
-Im proficient at
+<small>Im proficient at</small>
 
 - **Assembly** *(amd64 - linux/windows and MIPS)*
 - **C**
