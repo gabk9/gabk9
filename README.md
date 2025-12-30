@@ -21,7 +21,7 @@ Currently I mainly code in:
 <small>Im proficient at</small>
 
 - **Assembly** *(amd64 - linux/windows and MIPS)*
-- **C**
+- **C** *(linux/windows)*
 ***
 - **CSS**
 - **HTML**
