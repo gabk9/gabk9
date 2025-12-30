@@ -20,7 +20,7 @@ Currently I mainly code in:
 
 <small>Im proficient at</small>
 
-- **Assembly** *(amd64 - linux/windows and MIPS)*
+- **Assembly** *(amd64 - linux, windows and MIPS)*
 - **C** *(linux/windows)*
 ***
 - **CSS**
