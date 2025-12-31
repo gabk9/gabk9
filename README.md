@@ -7,12 +7,12 @@
 <h1 align="center">Gabriel Oliveira</h1>
 
 <p align="center">
-  👨‍💻 Programmer in training | 🎓 15 y.o | 🇧🇷 Brazil
+  Programmer in training | 15 y.o | Brazil
 </p>
 
 ---
 
-### 👋 About Me
+### About Me
 
 
 Hi! My name is Gabriel, I'm 15 years old and I'm passionate about tech and coding.
@@ -41,16 +41,16 @@ And in the future, who knows, maybe even **Fortran** or **COBOL**!
 
 ---
 
-### 🧠 Interests
+### Interests
 
 - Terminal systems
 - Low-level programming
 - Kernel and operational systems
-- Continuous learning 🚀
+- Continuous learning
 
 ---
 
-### 🛠️ Technologies and Tools
+### Technologies and Tools
 
 ![C](https://img.shields.io/badge/C-blue?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -73,7 +73,7 @@ And in the future, who knows, maybe even **Fortran** or **COBOL**!
 
 ---
 
-### 📈 GitHub stats
+### GitHub stats
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabk9&show_icons=true&theme=github_dark&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabk9&layout=compact&theme=github_dark&hide_border=true" />
@@ -83,7 +83,7 @@ And in the future, who knows, maybe even **Fortran** or **COBOL**!
 
 ---
 
-### 📌 My personal best projects
+### My personal best projects
 
 - 🖥️ [A linux like shell (C)](https://github.com/gabk9/lsw-Gab-OS/blob/pc-linux)
 - 🔐 [Caesar cipher on the terminal (C)](https://github.com/gabk9/Meus-projetos-C/tree/pc-linux/testes/CifraCesar.c)
@@ -94,7 +94,7 @@ And in the future, who knows, maybe even **Fortran** or **COBOL**!
 
 ---
 
-### 📫 Contact
+### Contact
 
 - 📧 Gmail: giane.ga2010@gmail.com
 - 💬 Discord: **gabirel69_**
@@ -105,4 +105,4 @@ And in the future, who knows, maybe even **Fortran** or **COBOL**!
 
 
 
-⭐ Thank you for visiting my profile!
+Thank you for visiting my profile!
