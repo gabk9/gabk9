@@ -15,8 +15,7 @@
 ### About Me
 
 
-Hi! My name is Gabriel, I'm 15 years old and I'm passionate about tech and coding.
-Currently I mainly code in:
+Hi! My name is Gabriel, I'm 15 years old and I'm passionate about tech and low-level programming.
 
 <small>Im proficient at</small>
 
