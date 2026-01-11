@@ -86,10 +86,8 @@ And in the future, who knows, maybe even **Fortran** or **COBOL**!
 
 - 🖥️ [A linux like shell (C)](https://github.com/gabk9/lsw-Gab-OS/blob/pc-linux)
 - 🔐 [Caesar cipher on the terminal (C)](https://github.com/gabk9/Meus-projetos-C/tree/pc-linux/testes/CifraCesar.c)
-- 🧠 [Quiz about variable declaration (C)](https://github.com/gabk9/Meus-projetos-C/tree/pc-linux/testes/Variaveis.c)
-- 🛒 [A CRUD for the costumer (C)](https://github.com/gabk9/Meus-projetos-C/tree/pc-linux/testes/buysmart.c)
+- ⚙️ [Scripts to help with compilation (Batch script, Shell script, Json)](https://github.com/gabk9/Scripts-VSCode/tree/main)
 - 💼 [My portfolio (HTML, CSS, JS)](https://github.com/gabk9/Meus-projetos-Web/tree/master/Portfolio)
-- 🔢 [A web calculator (HTML, CSS, JS)](https://github.com/gabk9/Meus-projetos-Web/tree/master/calculadora)
 
 ---
 
