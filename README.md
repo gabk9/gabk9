@@ -85,7 +85,7 @@ And in the future, who knows, maybe even **Fortran** or **COBOL**!
   <br><br>
 
   <!-- Streak -->
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=gabk9&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+  <img src="https://streak-stats.demolab.com?user=gabk9&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 
 ---
