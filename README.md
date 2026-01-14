@@ -83,9 +83,6 @@ And in the future, who knows, maybe even **Fortran** or **COBOL**!
        src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=gabk9&layout=compact&theme=dark&hide_border=true" />
 
   <br><br>
-
-  <!-- Streak -->
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=gabk9&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 
 ---
