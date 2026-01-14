@@ -85,8 +85,8 @@ And in the future, who knows, maybe even **Fortran** or **COBOL**!
   <br><br>
 
   <!-- Streak -->
-  <img
-       src="https://github-readme-streak-stats.herokuapp.com?user=gabk9&theme=github-dark-blue&hide_border=true" />
+ <img
+       src="https://streak-stats.demolab.com?user=gabk9&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ---
