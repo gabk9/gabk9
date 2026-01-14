@@ -7,7 +7,7 @@
 <h1 align="center">Gabriel Oliveira</h1>
 
 <p align="center">
-  Programmer in training | 15 y.o | Brazil
+  Programmer in training | 16 y.o | Brazil
 </p>
 
 ---
@@ -15,7 +15,7 @@
 ### About Me
 
 
-Hi! My name is Gabriel, I'm 15 years old and I'm passionate about tech and low-level programming.
+Hi! My name is Gabriel, I'm 16 years old and I'm passionate about tech and low-level programming.
 
 <small>Im proficient at</small>
 
