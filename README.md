@@ -74,12 +74,14 @@ And in the future, who knows, maybe even **Fortran** or **COBOL**!
 
 ### GitHub stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=gabk9&layout=compact&theme=dark" />
-  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=gabk9&layout=compact&theme=dark" />
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=gabk9&show_icons=true&theme=dark&hide_border=true" />
+  <img height="180em"
+       src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=gabk9&layout=compact&theme=dark&hide_border=true" />
   <br><br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=gabk9&theme=github-dark-blue" />
+  <img
+       src="https://github-readme-streak-stats.herokuapp.com?user=gabk9&theme=github-dark-blue&hide_border=true" />
 </p>
-
 ---
 
 ### My personal best projects
