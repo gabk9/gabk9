@@ -74,7 +74,7 @@ And in the future, who knows, maybe even **Fortran** or **COBOL**!
 
 ### GitHub stats
 <p align="center">
-  <img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=gabk9&show_icons=true&theme=dark" />
+  ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs?username=gabk9&layout=compact&theme=dark)
   <img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=gabk9&layout=compact&theme=dark" />
   <br><br>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=gabk9&theme=github-dark-blue" />
