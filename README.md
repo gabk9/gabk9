@@ -22,9 +22,7 @@ Hi! My name is Gabriel, I'm 16 years old and I'm passionate about tech and low-l
 - **Assembly** *(amd64 - linux, windows and MIPS)*
 - **C** *(linux/windows)*
  
-***
-
-<small>I also know a bit of</small>
+<small>I also know a bit of
 
 - **CSS**
 - **HTML**
@@ -32,7 +30,7 @@ Hi! My name is Gabriel, I'm 16 years old and I'm passionate about tech and low-l
 - **PHP**
 - **Python**
 
-Currently deepening/learning in other languages ​​such as:
+<small>Currently deepening/learning in other languages ​​such as:</small>
 
 - **C++**
 - **Golang**
