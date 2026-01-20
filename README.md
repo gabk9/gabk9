@@ -21,7 +21,11 @@ Hi! My name is Gabriel, I'm 16 years old and I'm passionate about tech and low-l
 
 - **Assembly** *(amd64 - linux, windows and MIPS)*
 - **C** *(linux/windows)*
+ 
 ***
+
+<small>I also know a bit of</small>
+
 - **CSS**
 - **HTML**
 - **JavaScript**
