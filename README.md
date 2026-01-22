@@ -91,7 +91,7 @@ And in the future, who knows, maybe even **Fortran** or **COBOL**!
 
 ### My personal best projects
 
-- 🖥️ [A linux like shell - my best biggest project so far (C)](https://github.com/gabk9/lsw-Gab-OS/blob/pc-linux)
+- 🖥️ [A linux like shell - my best and biggest project so far (C)](https://github.com/gabk9/lsw-Gab-OS/blob/pc-linux)
 - 🔐 [Caesar cipher on the terminal (C)](https://github.com/gabk9/Meus-projetos-C/tree/pc-linux/testes/CifraCesar.c)
 - ⚙️ [Scripts to help with compilation (Batch script, Shell script, Json)](https://github.com/gabk9/Scripts-VSCode/tree/main)
 - 💼 [My portfolio (HTML, CSS, JS)](https://github.com/gabk9/Meus-projetos-Web/tree/master/Portfolio)
