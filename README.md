@@ -75,16 +75,18 @@ And in the future, who knows, maybe even **Fortran** or **COBOL**!
 ---
 
 ### GitHub stats
-<p align="center">
-  <!-- Stats gerais -->
-  <img height="150em"
-       src="https://github-readme-stats-fast.vercel.app/api?username=gabk9&show_icons=true&theme=dark&hide_border=true" />
-
-  <!-- Top Languages -->
-  <img height="150em"
-       src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=gabk9&layout=compact&theme=dark&hide_border=true" />
-
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img height="180em"
+           src="https://github-readme-stats-fast.vercel.app/api?username=gabk9&show_icons=true&theme=dark&hide_border=true" />
+    </td>
+    <td>
+      <img height="180em"
+           src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=gabk9&layout=compact&theme=dark&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
 ---
 
