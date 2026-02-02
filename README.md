@@ -84,7 +84,6 @@ And in the future, who knows, maybe even **Fortran** or **COBOL**!
   <img height="180em"
        src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=gabk9&layout=compact&theme=dark&hide_border=true" />
 
-  <br><br>
 </p>
 
 ---
