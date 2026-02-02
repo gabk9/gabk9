@@ -77,11 +77,11 @@ And in the future, who knows, maybe even **Fortran** or **COBOL**!
 ### GitHub stats
 <p align="center">
   <!-- Stats gerais -->
-  <img height="180em"
+  <img height="150em"
        src="https://github-readme-stats-fast.vercel.app/api?username=gabk9&show_icons=true&theme=dark&hide_border=true" />
 
   <!-- Top Languages -->
-  <img height="180em"
+  <img height="150em"
        src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=gabk9&layout=compact&theme=dark&hide_border=true" />
 
 </p>
