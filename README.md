@@ -19,7 +19,7 @@ Hi! My name is Gabriel, I'm 16 years old and I'm passionate about tech and low-l
 
 <small>Im proficient at</small>
 
-- **Assembly** *(amd64 - linux, windows and MIPS)*
+- **Assembly** *(amd64 & MIPS - linux, windows MIPS)*
 - **C** *(linux/windows)*
  
 <small>I also know a bit of
