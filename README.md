@@ -24,19 +24,12 @@ Hi! My name is Gabriel, I'm 16 years old and I'm passionate about tech and low-l
  
 <small>I also know a bit of
 
+- **Rust**
 - **CSS**
 - **HTML**
 - **JavaScript**
 - **PHP**
 - **Python**
-
-<small>Currently deepening/learning in other languages ​​such as:</small>
-
-- **C++**
-- **Golang**
-- **Java**
-- **Kotlin**
-- **Rust**
 
 And in the future, who knows, maybe even **Fortran** or **COBOL**!
 
