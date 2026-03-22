@@ -31,8 +31,6 @@ Hi! My name is Gabriel, I'm 16 years old and I'm passionate about tech and low-l
 - **PHP**
 - **Python**
 
-And in the future, who knows, maybe even **Fortran** or **COBOL**!
-
 ---
 
 ### Interests
