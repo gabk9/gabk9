@@ -19,8 +19,8 @@ Hi! My name is Gabriel, I'm 16 years old and I'm passionate about tech and low-l
 
 <small>Im proficient at</small>
 
-- **Assembly** *(amd64 & MIPS - linux, windows MIPS)*
-- **C** *(linux/windows)*
+- **Assembly** - *Linux and Windows (x86_64 and MIPS)*
+- **C** - *Linux, MacOS and Windows (x86_64 and arm64)*
  
 <small>I also know a bit of</small>
 
@@ -56,6 +56,8 @@ Hi! My name is Gabriel, I'm 16 years old and I'm passionate about tech and low-l
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-69B53F?logo=linuxmint&logoColor=white&style=for-the-badge)
+![MacOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
 
 ---
