@@ -76,7 +76,7 @@ Hi! My name is Gabriel, I'm 16 years old and I'm passionate about tech and low-l
 ### My personal best projects
 
 - 🖥️ [A linux like shell - my best and biggest project so far (C)](https://github.com/gabk9/lsw-Gab-OS/blob/pc-linux)
-- 🔤 [A simple but extensive parser (C)](https://github.com/gabk9/C-eval)
+- 🔤 [A simple but extensive interpreter (C)](https://github.com/gabk9/C-eval)
 - 🔐 [Caesar cipher on the terminal (C)](https://github.com/gabk9/Meus-projetos-C/tree/pc-linux/testes/CifraCesar.c)
 - ⚙️ [Scripts to help with compilation (Batch script, Shell script, Json)](https://github.com/gabk9/Scripts-VSCode/tree/main)
 - 💼 [My portfolio (HTML, CSS, JS)](https://github.com/gabk9/Meus-projetos-Web/tree/master/Portfolio)
