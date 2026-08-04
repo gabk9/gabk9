@@ -73,7 +73,7 @@ Hi! My name is Gabriel, I'm 16 years old and I'm passionate about tech and low-l
 
 - 🖥️ [A linux like shell - my best and biggest project so far (C)](https://github.com/gabk9/lsw-Gab-OS/blob/pc-linux)
 - 🔤 [A simple but extensive interpreter (C)](https://github.com/gabk9/C-eval)
-- 🖱️ [A small cross-platform auto clicker backend (C)](https://github.com/gabk9/Cclicker)
+- 🖱️ [A small cross-platform autoclicker engine (C)](https://github.com/gabk9/Cclicker)
 - 🧮 [A numeric systems workbench for low-level developers (TypeScript, VSCode Extension)](https://github.com/gabk9/BitWorkbench)
 - ⚙️ [Scripts to help with compilation (Batch script, Shell script, Json)](https://github.com/gabk9/Scripts-VSCode/tree/main)
 
