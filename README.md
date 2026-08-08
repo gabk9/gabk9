@@ -59,7 +59,7 @@ Hi! My name is Gabriel, I'm 16 years old and I'm passionate about tech and low-l
 ---
 
 ### GitHub stats
-<p align="center">
+<p>
   <img height="180em"
        src="https://github-readme-stats-fast.vercel.app/api?username=gabk9&show_icons=true&theme=dark&hide_border=true" />
 
