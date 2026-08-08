@@ -65,6 +65,8 @@ Hi! My name is Gabriel, I'm 16 years old and I'm passionate about tech and low-l
 
   <img height="180em"
        src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=gabk9&layout=compact&theme=dark&hide_border=true" />
+
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=gabk9&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 
 ---
