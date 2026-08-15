@@ -1,7 +1,7 @@
 <div align="center"> <img src="https://raw.githubusercontent.com/gabk9/gabk9/output/snake.svg" alt="Snake animation" width="100%" /> </div> <h1 align="center">Gabriel Oliveira</h1> <p align="center"> <code>18 y.o • Brazil • Programmer in training</code> </p> <p align="center"> <img src="https://img.shields.io/badge/status-compiling...-6E4C13?style=flat-square" alt="status badge" /> </p>
 
 ---
-
+    
 ### `whoami`
 
 ```txt
