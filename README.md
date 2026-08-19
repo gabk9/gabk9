@@ -27,13 +27,13 @@ compilers, and the terminal in general.
 
 ### Projects worth a look
 
-|Project|Description|Stack|
-|---|---|---|
-|🖥️ [**lsw-Gab-OS**](https://github.com/gabk9/lsw-Gab-OS/blob/pc-linux)|A Linux-like shell — my biggest project so far|C|
-|🔤 [**C-eval**](https://github.com/gabk9/C-eval)|A simple but extensive interpreter|C|
-|🖱️ [**Cclicker**](https://github.com/gabk9/Cclicker)|A small cross-platform autoclicker engine|C|
-|🧮 [**BitWorkbench**](https://github.com/gabk9/BitWorkbench)|A numeric systems workbench for low-level devs|TypeScript, VS Code Ext.|
-|⚙️ [**VSCode-Scripts**](https://github.com/gabk9/Scripts-VSCode/tree/main)|Scripts to help with compilation|Batch, Shell, JSON|
+| Project                                                                    | Description                                    | Stack                    |
+|----------------------------------------------------------------------------|------------------------------------------------|--------------------------|
+| 🖥️ [**lsw-Gab-OS**](https://github.com/gabk9/lsw-Gab-OS/blob/pc-linux)     | A Linux-like shell — my biggest project so far | C                        |
+| 🔤 [**C-eval**](https://github.com/gabk9/C-eval)                           | A simple but extensive interpreter             | C                        |
+| 🖱️ [**Cclicker**](https://github.com/gabk9/Cclicker)                       | A small cross-platform autoclicker engine      | C                        |
+| 🧮 [**BitWorkbench**](https://github.com/gabk9/BitWorkbench)               | A numeric systems workbench for low-level devs | TypeScript, VS Code Ext. |
+| ⚙️ [**VSCode-Scripts**](https://github.com/gabk9/Scripts-VSCode/tree/main) | Scripts to help with compilation               | Batch, Shell, JSON       |
 
 <p align="center"><sub>⭐ If you like what you see, consider starring some repos!</sub></p>
 
