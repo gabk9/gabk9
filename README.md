@@ -41,7 +41,10 @@ compilers, and the terminal in general.
 
 ### Stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=gabk9&color=6E4C13)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gabk9&color=6E4C13&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
 <p align="center"> <img height="165em" src="https://github-readme-stats-fast.vercel.app/api?username=gabk9&show_icons=true&theme=dark&hide_border=true" /> <img height="165em" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=gabk9&layout=compact&theme=dark&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=gabk9&theme=dark&hide_border=true" alt="GitHub Streak" /> </p> <div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-green.svg" /> <img alt="3D Contribution Graph" src="profile-3d-contrib/profile-green-animate.svg" /> </picture> </div> <!-- Requires the github-profile-3d-contrib Action set up in this repo — see setup notes -->
 
 ---
