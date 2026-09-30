@@ -79,9 +79,9 @@ struct dev me = {
 
 <p align="center">
   <a href="mailto:giane.ga2010@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="[discord]"><img src="https://img.shields.io/badge/Discord-gabirel69__-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="[instagram]"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="[linkedin]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://discord.com/users/1013077671825121341"><img src="https://img.shields.io/badge/Discord-gabirel69__-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://www.instagram.com/gabriel.o.miranda/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.linkedin.com/in/gabriel-oliveira-miranda-3b5076372/?isSelfProfile=true"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 <p align="center"><i>Personal website: coming soon</i></p>
