@@ -16,7 +16,7 @@
 ### `$ whoami`
 
 ```c
-// [name] — likes working close to the metal.
+// Gabriel — likes working close to the metal.
 struct dev me = {
     .focus    = { "C", "Assembly" },
     .interest = { "kernels", "shells", "compilers", "the terminal" },
@@ -78,7 +78,7 @@ struct dev me = {
 ### `$ ./contact.sh`
 
 <p align="center">
-  <a href="mailto:[email]"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:giane.ga2010@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="[discord]"><img src="https://img.shields.io/badge/Discord-gabirel69__-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="[instagram]"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="[linkedin]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
