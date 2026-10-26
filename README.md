@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/status-compiling...-6E4C13?style=flat-square" alt="status: compiling..." />
   <img src="https://komarev.com/ghpvc/?username=gabk9&color=6E4C13&style=flat-square&label=profile+views" alt="Profile views" />
 </div>
-
+      
 ---
 
 ### `$ whoami`
